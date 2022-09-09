@@ -1,5 +1,3 @@
-
-
 with open("F:\\tt.txt", "r") as file:
     lines = [i.strip() for i in file]
 
